@@ -39,7 +39,7 @@ Rectangle {
                     if (pressed) {
 
                         rect1.width = rect1.width + (mouseX - oldMouseRightX)
-                        mouseAreaBottom.width = rect1.width - 8 // Изменение правой mauseArea // -8 потому что размер угловой mauseArea 8х8
+                        mouseAreaBottom.width = rect1.width - 8 // Изменение правой mouseArea // -8 потому что размер угловой mauseArea 8х8
                         if ((rect1.width + (mouseX - oldMouseRightX)) < 200){ // Проверка минимального размера
                                 rect1.width = 200
                                }
