@@ -38,7 +38,6 @@ int main(int argc, char *argv[])
     QQuickItem *object2 = qobject_cast<QQuickItem*>(component.create());
 
     //QQmlEngine::setObjectOwnership(object, QQmlEngine::CppOwnership);
-
     object->setParentItem(root);
     object->setParent(&engine);
     object2->setParentItem(root);

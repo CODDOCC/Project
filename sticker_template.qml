@@ -14,10 +14,7 @@ Rectangle {
             y: 0
             width: rect1.width
             height: 50
-
-
         }
-
         MouseArea {
 
             property int oldMouseRightX
