@@ -68,7 +68,7 @@ Rectangle {
                 onPositionChanged: {
                     if (pressed) {
                         rect1.height = rect1.height + (mouseY - oldMouseBottomY)
-                        mouseAreaRight.height = rect1.height - 8 // Изменение правой mauseArea
+                        mouseAreaRight.height = rect1.height - 8 // Изменение правой mouseArea
                         if ((rect1.height + (mouseY - oldMouseBottomY)) < 200){ // Проверка минимального размера
                                rect1.height = 200
                                mouseAreaRight.height = 192
@@ -101,8 +101,8 @@ Rectangle {
                     if (pressed) {
                         rect1.width = rect1.width + (mouseX - oldMouseCornetX)
                         rect1.height = rect1.height + (mouseY - oldMouseCornerY)
-                        mouseAreaRight.height = rect1.height - 8 // Изменение правой mauseArea
-                        mouseAreaBottom.width = rect1.width  - 8 // Изменение нижней mauseArea
+                        mouseAreaRight.height = rect1.height - 8 // Изменение правой mouseArea
+                        mouseAreaBottom.width = rect1.width  - 8 // Изменение нижней mouseArea
 
                     if ((rect1.width + (mouseX - oldMouseCornetX)) < 200){  // Проверка минимального размера
                             rect1.width = 200
