@@ -66,7 +66,25 @@ namespace FormsTest
         private void panel1_MouseMove(object sender, MouseEventArgs e)
         {
             Control c = sender as Control;
-            
+
+            //Смена вида курсора
+            if ((e.X < c.Width && (c.Height - e.Y) < 20) && ((c.Width - e.X) < 20))
+            {
+                Cursor = Cursors.SizeNWSE;
+            }
+            else if ((c.Width - e.X) < 20)
+            {
+                Cursor = Cursors.SizeWE;
+            }
+            else if (e.X < c.Width && (c.Height - e.Y) < 20)
+            {
+                Cursor = Cursors.SizeNS;
+            }
+            else
+            {
+                Cursor = Cursors.Default;
+            }
+            ////////////////////////
             if (isDown)
             {
                 check(c, e);
@@ -80,19 +98,17 @@ namespace FormsTest
             isPresRight = false;
             isPresAngle = false;
             isPresBottom = false;
-            Cursor = Cursors.Default;//Возврат дефолтного вида курсора
         }
+
 
         private void check(Control c, MouseEventArgs e)
         {
             Point newPos = new Point(e.X - pos.X, e.Y - pos.Y);
             Point movePos = new Point(MousePosition.X - pos.X, MousePosition.Y - pos.Y);
-            
             if ( isPresAngle)
             {
                 c.Width = pWidth + newPos.X;
                 c.Height = pHeight + newPos.Y;
-                Cursor = Cursors.SizeNWSE;// Смена вида курсора
             }
             else
             {
@@ -116,6 +132,11 @@ namespace FormsTest
                     }
                 }
             }
+        }
+
+        private void panel1_MouseLeave(object sender, EventArgs e)
+        {
+            Cursor = Cursors.Default;//Возврат дефолтного вида курсора при выходе за панель
         }
     }
 }
