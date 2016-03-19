@@ -1,0 +1,18 @@
+c:\users\garant\documents\visual studio 2015\Projects\FormsTest\FormsTest\bin\Debug\FormsTest.exe.config
+c:\users\garant\documents\visual studio 2015\Projects\FormsTest\FormsTest\bin\Debug\FormsTest.exe
+c:\users\garant\documents\visual studio 2015\Projects\FormsTest\FormsTest\bin\Debug\FormsTest.pdb
+c:\users\garant\documents\visual studio 2015\Projects\FormsTest\FormsTest\obj\Debug\FormsTest.csprojResolveAssemblyReference.cache
+c:\users\garant\documents\visual studio 2015\Projects\FormsTest\FormsTest\obj\Debug\FormsTest.Form1.resources
+c:\users\garant\documents\visual studio 2015\Projects\FormsTest\FormsTest\obj\Debug\FormsTest.Properties.Resources.resources
+c:\users\garant\documents\visual studio 2015\Projects\FormsTest\FormsTest\obj\Debug\FormsTest.csproj.GenerateResource.Cache
+c:\users\garant\documents\visual studio 2015\Projects\FormsTest\FormsTest\obj\Debug\FormsTest.exe
+c:\users\garant\documents\visual studio 2015\Projects\FormsTest\FormsTest\obj\Debug\FormsTest.pdb
+C:\Users\Toxich_UA\Desktop\Proj\C#\FormsTest\FormsTest\bin\Debug\FormsTest.exe.config
+C:\Users\Toxich_UA\Desktop\Proj\C#\FormsTest\FormsTest\obj\Debug\FormsTest.exe
+C:\Users\Toxich_UA\Desktop\Proj\C#\FormsTest\FormsTest\obj\Debug\FormsTest.pdb
+C:\Users\Toxich_UA\Desktop\Proj\C#\FormsTest\FormsTest\bin\Debug\FormsTest.exe
+C:\Users\Toxich_UA\Desktop\Proj\C#\FormsTest\FormsTest\bin\Debug\FormsTest.pdb
+C:\Users\Toxich_UA\Desktop\Proj\C#\FormsTest\FormsTest\obj\Debug\FormsTest.csprojResolveAssemblyReference.cache
+C:\Users\Toxich_UA\Desktop\Proj\C#\FormsTest\FormsTest\obj\Debug\FormsTest.Form1.resources
+C:\Users\Toxich_UA\Desktop\Proj\C#\FormsTest\FormsTest\obj\Debug\FormsTest.Properties.Resources.resources
+C:\Users\Toxich_UA\Desktop\Proj\C#\FormsTest\FormsTest\obj\Debug\FormsTest.csproj.GenerateResource.Cache
