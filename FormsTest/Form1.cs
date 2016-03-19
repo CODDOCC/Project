@@ -80,6 +80,7 @@ namespace FormsTest
             isPresRight = false;
             isPresAngle = false;
             isPresBottom = false;
+            Cursor = Cursors.Default;//Возврат дефолтного вида курсора
         }
 
         private void check(Control c, MouseEventArgs e)
@@ -91,6 +92,7 @@ namespace FormsTest
             {
                 c.Width = pWidth + newPos.X;
                 c.Height = pHeight + newPos.Y;
+                Cursor = Cursors.SizeNWSE;// Смена вида курсора
             }
             else
             {

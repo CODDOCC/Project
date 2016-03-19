@@ -16,3 +16,12 @@ C:\Users\Toxich_UA\Desktop\Proj\C#\FormsTest\FormsTest\obj\Debug\FormsTest.cspro
 C:\Users\Toxich_UA\Desktop\Proj\C#\FormsTest\FormsTest\obj\Debug\FormsTest.Form1.resources
 C:\Users\Toxich_UA\Desktop\Proj\C#\FormsTest\FormsTest\obj\Debug\FormsTest.Properties.Resources.resources
 C:\Users\Toxich_UA\Desktop\Proj\C#\FormsTest\FormsTest\obj\Debug\FormsTest.csproj.GenerateResource.Cache
+C:\Users\Garant\Source\Repos\Project\FormsTest\bin\Debug\FormsTest.exe.config
+C:\Users\Garant\Source\Repos\Project\FormsTest\obj\Debug\FormsTest.exe
+C:\Users\Garant\Source\Repos\Project\FormsTest\obj\Debug\FormsTest.pdb
+C:\Users\Garant\Source\Repos\Project\FormsTest\bin\Debug\FormsTest.exe
+C:\Users\Garant\Source\Repos\Project\FormsTest\bin\Debug\FormsTest.pdb
+C:\Users\Garant\Source\Repos\Project\FormsTest\obj\Debug\FormsTest.csprojResolveAssemblyReference.cache
+C:\Users\Garant\Source\Repos\Project\FormsTest\obj\Debug\FormsTest.Form1.resources
+C:\Users\Garant\Source\Repos\Project\FormsTest\obj\Debug\FormsTest.Properties.Resources.resources
+C:\Users\Garant\Source\Repos\Project\FormsTest\obj\Debug\FormsTest.csproj.GenerateResource.Cache
